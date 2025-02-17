@@ -6,8 +6,6 @@ This library provides functionalities for configuring and communicating with the
 It supports functions for setting frequency, TX power, bandwidth, spreading factor, etc.,
 as well as packet transmission and reception.
 
-Author: Your Name
-Date: YYYY-MM-DD
 """
 
 import gc
