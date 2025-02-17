@@ -57,7 +57,7 @@ SX1278 Module   | ESP32 Pins
 
 Make sure to connect the LoRa module correctly to the microcontroller for communication.
 
-![Hardware](./images/Hardware.png)
+![Hardware](./images/hardware.png)
 
 
 ## Library Usage
