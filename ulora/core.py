@@ -1,6 +1,4 @@
 """
-ulora.py
-
 ULoRa: A lightweight library for the SX127x LoRa module.
 This library provides functionalities for configuring and communicating with the SX127x.
 It supports functions for setting frequency, TX power, bandwidth, spreading factor, etc.,
